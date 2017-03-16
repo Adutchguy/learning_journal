@@ -1,4 +1,4 @@
-# # LJ Code 201 - Day 9
+# # LJ Code 201 - Day 8
 
 Man, Monday through Wednesday were brutal. I feel like have learned more in the last week and a half than I have in 3 years of life.
 
